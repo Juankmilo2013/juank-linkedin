@@ -83,3 +83,22 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://ventasxmayor.cl/blog-ecommerce-b2b-2026>
 - <https://www.spoonity.com/es/tendencias-fidelizacion-digital-2026/>
 - <https://www.aurorainbox.com/en/2026/03/01/whatsapp-business-2025-statistics/>
+
+## Resumen de tendencias - 17 de julio de 2026
+
+- Meta lanzó el 1 de julio de 2026 su "Business Agent Platform", integrando LLaMA directamente en WhatsApp Business: respuestas automáticas inteligentes, resúmenes de conversaciones largas y recomendaciones de producto basadas en el historial del cliente — el chat empieza a comportarse como un vendedor asistido por IA.
+- A partir de octubre de 2026, Meta cobrará por responder mensajes de clientes en WhatsApp (hoy gratis dentro de la ventana de 24h) y sumará una categoría de cobro por token para el uso de su propio agente de IA — cambia el cálculo de ROI de las campañas y refuerza el valor de un partner CPaaS que optimice la conversación.
+- Llega "WhatsApp Coexistence": permite usar el mismo número en la app y en la API al mismo tiempo, sincronizando hasta 6 meses de historial — resuelve el mayor miedo de las pymes al migrar a WhatsApp Business API (perder el número y el historial de chats).
+- WhatsApp alcanzó 3.3 mil millones de usuarios activos mensuales a inicios de 2026 (camino a 3.5 mil millones a fin de año) y su API ya procesa más de 100 mil millones de mensajes al mes a nivel global.
+- En conversión, WhatsApp reporta tasas de apertura del 98% y conversión de 8-15%, frente a 1.5-3% de email — y en 2026 el canal dejó de competir con el CRM: se integra nativamente (HubSpot, Zoho, soluciones locales Latam), consolidándose como capa conversacional sobre el CRM en vez de reemplazarlo.
+- WhatsApp Business ya suma soporte multicuenta dentro de la misma app (cambio de perfil en 2 segundos, notificaciones en segundo plano) — útil para equipos comerciales que manejan varias líneas o marcas desde un solo celular.
+
+### Fuentes
+
+- <https://www.infobip.com/blog/whatsapp-statistics>
+- <https://www.useinvent.com/blog/the-usd45b-whatsapp-business-economy-how-to-capture-your-share-2026-guide>
+- <https://www.unimento.com/whatsapp-business-funciones-nuevas-2026>
+- <https://blog.riqra.com/posts/nuevas-tarifas-whatsapp-business-2026>
+- <https://www.adslzone.net/noticias/whatsapp/multicuenta-business-app-whatsapp/>
+- <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
+- <https://www.itsitio.com/software/whatsapp-2026-todas-las-nuevas-funciones-anuncios-en-europa-y-lista-completa-de-cambios-actualizados/>
