@@ -102,3 +102,24 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.adslzone.net/noticias/whatsapp/multicuenta-business-app-whatsapp/>
 - <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
 - <https://www.itsitio.com/software/whatsapp-2026-todas-las-nuevas-funciones-anuncios-en-europa-y-lista-completa-de-cambios-actualizados/>
+
+## Resumen de tendencias - 24 de julio de 2026
+
+- WhatsApp Business Calling suma grabación de llamadas: los equipos de ventas pueden revisar conversaciones después y detectar patrones de objeción. Banco PAN reportó 4x más conversiones usando esta función — una llamada de 3 minutos resuelve lo que un hilo de chat tarda toda la tarde.
+- Meta confirmó el cambio de cobro desde el 1 de octubre de 2026: los mensajes de servicio dentro de la ventana de 24h (hoy gratis) pasarán a cobrarse a tarifa de utilidad, sin importar si responde un humano, un bot o un agente de IA. Solo la app gratuita de WhatsApp Business y la ventana de 72h de anuncios Click-to-WhatsApp quedan exentas — reforzando el valor de optimizar la conversación con un partner CPaaS antes de octubre.
+- El comercio conversacional en WhatsApp ya tiene casos medibles en Latam: Nespresso automatizó el cierre de venta con catálogo interactivo y llegó a 58% de conversión general (73% en campaña navideña) sin intervención humana; Stellantis pasó de generar 5% a 50% de sus leads por WhatsApp en dos años, con costo por lead 50% más bajo que otros canales digitales.
+- El mercado CPaaS ya es infraestructura estándar: 86% de las empresas globales usan al menos una API CPaaS en 2026, 56% de los flujos de mensajería ya están automatizados con IA (enrutamiento y engagement predictivo), y 69% opera con estrategia omnicanal que integra SMS, voz y mensajería.
+- RCS gana terreno como complemento al SMS tradicional: ya es el estándar nativo en casi el 100% de los smartphones (incluido iOS) y se proyectan 3.800 millones de usuarios a fin de 2026 — habilita fallback automático RCS→SMS→WhatsApp cuando el cliente no tiene un canal disponible, relevante para estrategias multicanal en Latam.
+- En fidelización, la tendencia 2026 es la recompensa instantánea y multicanal: el sistema reconoce el nivel del cliente y activa el beneficio en el momento (compra, pedido digital, canje), sincronizado en todos los canales — el foco se mueve de "puntos acumulados" a triggers de comportamiento en tiempo real.
+
+### Fuentes
+
+- <https://www.b2chat.io/blog/whatsapp/llamadas-whatsapp-business-cerrar-ventas/>
+- <https://leadsales.io/blog/top-actualizaciones-de-whatsapp/>
+- <https://blog.chattigo.com/whatsapp-business/nuevo-cobro-whatsapp-business-api-meta-2026>
+- <https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing/?locale=es_LA>
+- <https://www.blip.ai/blog/es/whatsapp/compras-por-whatsapp/>
+- <https://www.sopranodesign.com/learn/cpaas-market-trends-the-future-of-mobile-communication/>
+- <https://www.businessresearchinsights.com/market-reports/cpaas-market-119746>
+- <https://sinch.com/es/blog/guia-de-mensajeria-rcs-para-empresas/>
+- <https://www.spoonity.com/es/tendencias-fidelizacion-digital-2026/>
