@@ -123,3 +123,22 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.businessresearchinsights.com/market-reports/cpaas-market-119746>
 - <https://sinch.com/es/blog/guia-de-mensajeria-rcs-para-empresas/>
 - <https://www.spoonity.com/es/tendencias-fidelizacion-digital-2026/>
+
+## Resumen de tendencias - 31 de julio de 2026
+
+- Meta presentó "Meta Business Agent" en su conferencia Conversations 2026 (Londres): ya no solo responde preguntas, cierra transacciones completas dentro del chat (pagos, agendar citas, calificar leads) y transfiere a un humano si no puede resolver algo. Ya lo usa más de 1 millón de empresas y desde el 1 de agosto de 2026 Meta empieza a cobrar 2 USD por millón de tokens por su uso — una ventana corta para que las cuentas activen o ajusten esta función antes del cobro.
+- Nueva función de WhatsApp: cuando alguien se une a un grupo ahora puede ver entre 25 y 100 mensajes anteriores a su ingreso (los admins pueden desactivarlo) — útil como ángulo de contenido para comunidades de clientes o grupos de soporte por WhatsApp.
+- El comercio conversacional en Latam ya vale USD 18.200 millones y el 72% ocurre dentro de WhatsApp (dato Infobip) — confirma que el canal no es un complemento, es el punto de venta principal en la región.
+- La adopción de WhatsApp Business API en Latam creció entre 54% y 133% frente a 2023 (según tamaño de empresa) — la curva de adopción todavía está en fase de crecimiento acelerado, no de meseta.
+- El mercado CPaaS crecería de USD 23.550 millones (2025) a USD 31.370 millones en 2026 (CAGR 33,2%), con el eje del crecimiento moviéndose de APIs simples de SMS/voz hacia "capas de engagement" con IA que combinan bots, agentes humanos y datos del cliente en un solo flujo.
+- En fidelización B2B, 2026 concentra la inversión en tres frentes: experiencia de cliente, marketing de contenidos e IA generativa — la IA ya se usa para predecir abandono de clientes y activar incentivos o recompensas en tiempo real en vez de esperar a que el cliente acumule puntos.
+
+### Fuentes
+
+- <https://www.enter.co/chips-bits/apps-software/whatsapp-estrena-meta-business-agent-asi-funcionara-la-ia-para-empresas/>
+- <https://aunoa.ai/blog/que-es-meta-business-agent-el-agente-de-ia-de-whatsapp-explicado/>
+- <https://www.milenio.com/tecnologia/que-es-meta-business-agent-whatsapp-ia-atiende-clientes-24-horas>
+- <https://leadsales.io/blog/top-actualizaciones-de-whatsapp/>
+- <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
+- <https://scoop.market.us/communication-platform-as-a-service-statistics/>
+- <https://www.spoonity.com/es/tendencias-fidelizacion-digital-2026/>
