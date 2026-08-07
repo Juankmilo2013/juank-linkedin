@@ -142,3 +142,21 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
 - <https://scoop.market.us/communication-platform-as-a-service-statistics/>
 - <https://www.spoonity.com/es/tendencias-fidelizacion-digital-2026/>
+
+## Resumen de tendencias - 07 de agosto de 2026
+
+- WhatsApp lanzó nombres de usuario (@handle) con rollout gradual desde el 29 de junio de 2026 y ya activo en Colombia desde el 20 de julio: los negocios pueden compartir un @usuario en vez del número de teléfono, y pueden exigir un PIN antes de que un desconocido les escriba por primera vez — cambia cómo una marca comparte su "puerta de entrada" en bio de redes, pauta y tarjetas de presentación digitales.
+- Nueva herramienta de difusiones comerciales (julio 2026): permite enviar plantillas con imagen, nombre del destinatario y botones de acción a clientes que ni siquiera tienen el número guardado en contactos — abre una vía formal de prospección fría dentro de WhatsApp, algo que antes solo era posible con broadcast lists muy limitadas.
+- Meta precisó el mecanismo del cobro de octubre: desde el 1 de octubre de 2026 los mensajes de servicio dentro de la ventana de 24h (hoy gratis) se facturarán al mismo precio que los mensajes de plantilla de utilidad, y publicará las tarifas exactas por país a más tardar el 1 de septiembre — deja una ventana corta de ~4 semanas para que las empresas ajusten presupuesto y flujos antes de que entre en vigencia.
+- En el mercado CPaaS, el software ya lidera el gasto con 63.5% de participación frente a 32% de IT/telecom tradicional — confirma que el valor se está moviendo de "conectividad pura" hacia capas de orquestación y engagement con IA, justo el terreno donde compite un partner CPaaS frente a un simple proveedor de mensajes.
+- Nuevas funciones de productividad dentro del chat de WhatsApp Business: edición de PDFs sin salir de la conversación e indicador de en línea/desconectado del contacto — reducen fricción en ventas consultivas (compartir y ajustar cotizaciones o contratos) sin depender de otra herramienta externa.
+
+### Fuentes
+
+- <https://ecosistemastartup.com/whatsapp-usernames-2026-guia-para-founders-y-negocios/>
+- <https://www.larepublica.co/globoeconomia/whatsapp-estrena-el-uso-de-nombres-de-usuario-en-su-nueva-actualizacion-4447615>
+- <https://leadsales.io/blog/top-actualizaciones-de-whatsapp/>
+- <https://engrana.es/en/blog/whatsapp-message-charges-october-2026>
+- <https://nordflux.de/en/insights/whatsapp-business-api-pricing-october-2026>
+- <https://www.futuremarketinsights.com/reports/communications-platform-as-a-service-cpaas-market>
+- <https://okdiario.com/tecnologia/todas-novedades-whatsapp-julio-2026-pdf-ipad-carplay-19087618>
