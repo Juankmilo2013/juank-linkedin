@@ -160,3 +160,22 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://nordflux.de/en/insights/whatsapp-business-api-pricing-october-2026>
 - <https://www.futuremarketinsights.com/reports/communications-platform-as-a-service-cpaas-market>
 - <https://okdiario.com/tecnologia/todas-novedades-whatsapp-julio-2026-pdf-ipad-carplay-19087618>
+
+## Resumen de tendencias - 14 de agosto de 2026
+
+- Gartner publicó su Magic Quadrant 2026 de CPaaS: Sinch retiene el puesto de Líder por tercer año consecutivo, con Twilio e Infobip separados por un margen mínimo (Twilio adelante en "ability to execute", Infobip en "completeness of vision") — la IA agéntica ya es el criterio que diferencia proveedores (AgentOS de Infobip, Agentic Conversations de Sinch desde febrero 2026).
+- Meta confirmó el mecanismo del cobro del Meta Business Agent, vigente desde el 1 de agosto de 2026: tarifa plana global de USD 2 por millón de tokens consumidos (sin variación por país), calculada según lo que tarda el agente de IA en procesar el mensaje del cliente y generar la respuesta.
+- De cara al cobro de mensajes de servicio del 1 de octubre, Meta actualiza sus tarifas por país trimestralmente (enero, abril, julio, octubre); en Latam, Chile y Perú tendrán las tarifas de marketing más altas, mientras Colombia y el resto de la región quedan con las más bajas — un dato útil para planear presupuesto de campañas antes de octubre.
+- El comercio conversacional gana tracción medible en Latam: Infobip reporta 18% de crecimiento interanual en el uso de WhatsApp como canal comercial durante 2025, y el reporte "Conversational Commerce 2025" de Meta encontró que el 64% de los clientes latam prefieren ver el catálogo dentro del chat antes que abrir un sitio externo, con conversiones 10-30% superiores a canales tradicionales (México y Brasil a la cabeza).
+- Según Gartner (Customer Service Technology), el 67% de las empresas que usan WhatsApp Business en Latam ya implementó o planea implementar IA conversacional en sus chats — la adopción de agentes de IA en ventas y soporte dejó de ser experimental y se volvió mayoritaria en la región.
+- RCS avanza como complemento al SMS en Latam: Brasil y México lideran la adopción, y Google espera que Argentina y Chile entren a fase comercial a mediados de 2026 cuando los operadores terminen de habilitar el servicio para empresas — relevante para estrategias de fallback multicanal (RCS→SMS→WhatsApp).
+
+### Fuentes
+
+- <https://www.cxtoday.com/service-management-connectivity/gartner-magic-quadrant-cpaas-2026/>
+- <https://www.sowhatnowwhat.co.uk/post/agentic-orchestration-cpaas-2026>
+- <https://green-api.com/articles/en/whatsapp-changes-rates-for-companies-and-business/>
+- <https://blog.chattigo.com/whatsapp-business/nuevo-cobro-whatsapp-business-api-meta-2026>
+- <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
+- <https://blog.chattigo.com/whatsapp-business/tendencias-de-ia-conversacional-en-latinoam%C3%A9rica-para-2026-el-auge-del-agente-aut%C3%B3nomo-en-whatsapp>
+- <https://mobiletime.la/noticias/21/08/2025/rcs-en-america-latina/>
