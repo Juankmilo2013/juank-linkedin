@@ -179,3 +179,23 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
 - <https://blog.chattigo.com/whatsapp-business/tendencias-de-ia-conversacional-en-latinoam%C3%A9rica-para-2026-el-auge-del-agente-aut%C3%B3nomo-en-whatsapp>
 - <https://mobiletime.la/noticias/21/08/2025/rcs-en-america-latina/>
+
+## Resumen de tendencias - 21 de agosto de 2026
+
+- Nueva función "WhatsApp Coexistence": permite usar la app normal y la API en el mismo número al mismo tiempo, sincronizando en tiempo real hasta 6 meses de historial de chats — abre la puerta a que pymes empiecen a automatizar parte de la atención (bots, plantillas, notificaciones proactivas) sin perder el trato manual desde el celular del vendedor.
+- El mercado CPaaS global alcanzaría USD 30.900 millones en 2026; una marca de retail que enrutó con IA entre SMS, email y mensajería reportó 35% menos tiempo de espera en soporte y 18% más recuperación de carritos abandonados — evidencia concreta de que el ROI de la orquestación multicanal con IA ya es medible, no solo una promesa.
+- En Latam, WhatsApp Business convierte entre 8% y 15% frente a 1,5%-3% de email marketing (Infobip/Blip); por industria, belleza y estética lidera con 20%-28% de conversión y salud con 15%-22%, mientras inmobiliario (3%-6%) y automotriz (4%-7%) convierten menos pero con tickets mucho más altos — dato útil para segmentar expectativas de campaña por vertical.
+- Señal de alerta sobre la moda de los agentes de IA: 97% de los ejecutivos dice haber desplegado agentes de IA en su empresa, pero solo 29% reporta un ROI significativo (Forbes, julio 2026) — un ángulo honesto para contenido: la tecnología ya está disponible, la brecha está en la implementación y medición.
+- El costo de una conversación de WhatsApp Business en Latam varía por país: entre USD 0,045 (México) y USD 0,085 (Argentina) para marketing, y entre USD 0,008 y USD 0,025 para utilidad o servicio al cliente — un insumo directo para calcular presupuesto de campañas antes del cobro de mensajes de servicio que entra en octubre.
+- El marco regulatorio de datos se endurece en la región: Chile aprobó la Ley 21.719 (vigente desde diciembre 2026) sumándose a la LGPD de Brasil y la LFPDPPP de México — las empresas que hacen email y WhatsApp marketing en varios países de Latam ya necesitan gestión de consentimiento diferenciada por país, no una política única para toda la región.
+
+### Fuentes
+
+- <https://www.hubtype.com/es/blog/whatsapp-coexistence-guia-completa>
+- <https://zenvia.com/es/blog/coexistencia-whatsapp/>
+- <https://www.ecosmob.com/blog/cpaas-trends-and-solutions/>
+- <https://www.navthemes.com/cpaas-news-biggest-trends-and-industry-updates-in-2026/>
+- <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
+- <https://ecosistemastartup.com/meta-business-agent-en-whatsapp-costo-por-mensaje-y-quienes-ganan/>
+- <https://blog.grows.pro/estado-marketing-digital-b2b-latam-2026>
+- <https://www.intothecom.com/recursos/marketing-digital-b2b-latam-2026>
