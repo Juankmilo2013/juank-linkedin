@@ -199,3 +199,27 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://ecosistemastartup.com/meta-business-agent-en-whatsapp-costo-por-mensaje-y-quienes-ganan/>
 - <https://blog.grows.pro/estado-marketing-digital-b2b-latam-2026>
 - <https://www.intothecom.com/recursos/marketing-digital-b2b-latam-2026>
+
+## Resumen de tendencias - 28 de agosto de 2026
+
+- WhatsApp Business ya suma más de 200 millones de cuentas empresariales activas a nivel global (+40% interanual según Meta), pero solo cerca de 5 millones operan sobre la API que permite automatización, multiagente e integración con CRM — la enorme mayoría de negocios sigue en la app gratuita, lo que deja mucho terreno de conversión hacia la API para un partner CPaaS.
+- Nueva tanda de funciones para grupos de WhatsApp (agosto 2026): encuestas avanzadas con hora de cierre y voto oculto, edición de la pregunta hasta 15 minutos después de publicada, mención @todos y creación rápida de un grupo a partir de otro existente — ángulo de contenido útil para comunidades de clientes, grupos VIP o soporte grupal por WhatsApp.
+- Meta confirmó que publicará las tarifas finales por país de los mensajes de servicio (dejan de ser gratis el 1 de octubre) a más tardar el 1 de septiembre de 2026, y precisó que —a diferencia de los mensajes de utilidad y autenticación— los mensajes de servicio no tendrán descuento por volumen: queda apenas una semana de ventana para que las cuentas ajusten presupuesto antes del anuncio oficial.
+- RCS avanza de forma desigual en Latam: en México, pese al acuerdo firmado con los tres grandes operadores, solo Telcel tiene el servicio realmente activo para empresas — la fragmentación entre operadores sigue siendo el principal freno para que las marcas confíen en RCS como canal masivo en la región (a diferencia de WhatsApp, que no depende del operador).
+- Casos concretos de comercio conversacional en Latam: una tienda de cosmética en Bogotá subió sus ventas por WhatsApp 40% en 90 días con un agente de IA, y varias pymes reportan pasar de 5% a 22% de conversión de leads al mismo costo por lead al mover la conversación de formularios web a WhatsApp — evidencia de que el salto de "canal de soporte" a "canal de cierre" ya es medible en negocios pequeños, no solo en grandes cuentas.
+- En B2B Latam, el email frío masivo pierde efectividad (aperturas y respuestas por debajo del benchmark global) mientras gana peso el enfoque omnicanal nativo (email + SMS + push + WhatsApp) con soporte local fuerte; en fidelización, la región sigue migrando de puntos genéricos hacia modelos con IA y datos en tiempo real que activan el beneficio en el momento de la compra.
+
+### Fuentes
+
+- <https://www.blip.ai/blog/es/whatsapp/estadisticas-whatsapp-marketing-latam/>
+- <https://www.aurorainbox.com/en/2026/03/01/whatsapp-business-2025-statistics/>
+- <https://www.semana.com/tecnologia/articulo/whatsapp-revoluciona-los-chats-en-2026-asi-funcionaran-las-nuevas-etiquetas-de-miembro-y-stickers-de-texto/202621/>
+- <https://hipertextual.com/mobile/mejoras-grupos-whatsapp-agosto-2026/>
+- <https://sendpulse.com/blog/whatsapp-service-message-pricing>
+- <https://www.hello-charles.com/blog/whatsapp-service-message-pricing-what-changes-in-2026>
+- <https://www.xataka.com.mx/telecomunicaciones/mensajes-rcs-llegan-mexico-asi-se-ven-asi-funcionan-asi-se-activan>
+- <https://mobiletime.la/noticias/21/08/2025/rcs-en-america-latina/>
+- <https://kasumi.cx/blog/casos-exito-whatsapp-latam/>
+- <https://tecnochat.com/blog/ia/whatsapp-ia-en-2026-pymes-latam-venden-8x-mas-respondiendo-en-1-minuto>
+- <https://blog.grows.pro/estado-marketing-digital-b2b-latam-2026>
+- <https://www.intothecom.com/recursos/marketing-digital-b2b-latam-2026>
