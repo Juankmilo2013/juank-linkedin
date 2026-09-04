@@ -223,3 +223,28 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://tecnochat.com/blog/ia/whatsapp-ia-en-2026-pymes-latam-venden-8x-mas-respondiendo-en-1-minuto>
 - <https://blog.grows.pro/estado-marketing-digital-b2b-latam-2026>
 - <https://www.intothecom.com/recursos/marketing-digital-b2b-latam-2026>
+
+## Resumen de tendencias - 04 de septiembre de 2026
+
+- Meta precisó el modelo de cobro que arranca el 1 de octubre: cada número de WhatsApp Business conserva 1.000 mensajes de servicio gratis al mes y paga desde el mensaje 1.001, mientras las plantillas de utilidad dentro de la ventana de 24h se cobran desde el primer mensaje — una franquicia que beneficia sobre todo a pymes con volumen bajo/medio y deja clara la ventaja de optimizar la conversación antes de escalar volumen.
+- RCS empieza a mostrar ROI medible en la región: Leroy Merlin reportó 220% de retorno usando RCS en sus campañas en Latam, y en México el canal ya alcanza más de 70% de entrega, ~90% de lectura y más de 80% de interacción — el 80% de los consumidores dice preferir marcas que usan RCS para conversar.
+- En Colombia, el 87% de las mipymes ya usa WhatsApp como canal principal de ventas (94% de penetración entre usuarios de internet, 38 millones de usuarios activos), y desde abril de 2026 Meta factura en pesos colombianos — simplifica el presupuesto de campañas para pymes locales de cara al cambio de tarifas de octubre.
+- El comercio conversacional en Latam podría superar los USD 15.000 millones anuales para 2027, pero el mix de canales varía mucho por país (por ejemplo, LinkedIn pesa el doble en Chile que en Brasil, donde WhatsApp Business domina) — refuerza que una estrategia B2B en Latam necesita segmentación por país, no un mensaje único para toda la región.
+- El mercado CPaaS sigue moviéndose hacia la orquestación con IA, mensajería verificada y cumplimiento normativo; como ejemplo concreto, el escritorio unificado de Twilio (Flex Conversations, que junta SMS, WhatsApp, voz y email en una sola línea de tiempo) redujo hasta 20% el tiempo promedio de atención — evidencia de que consolidar canales en una sola vista de agente ya genera eficiencia medible.
+- WhatsApp suma "Información": notas cortas de perfil que desaparecen en 24h (estilo Instagram Notes), y empieza a mostrar anuncios en la pestaña Actualizaciones (Estados y Canales) sin tocar los chats privados — la app sigue expandiéndose como superficie de marca y contenido más allá de la mensajería 1:1.
+
+### Fuentes
+
+- <https://molecula.digital/blog/whatsapp-precios-octubre-2026/>
+- <https://www.unocollective.com/recursos/guias/whatsapp-pricing-2026-cambio>
+- <https://blog.riqra.com/posts/nuevas-tarifas-whatsapp-business-2026>
+- <https://mobiletime.la/noticias/21/08/2025/rcs-en-america-latina/>
+- <https://www.blip.ai/blog/es/chatbots/rcs-para-empresas/>
+- <https://chately.co/blog/whatsapp-business-api-en-colombia>
+- <https://www.macsoft.com.co/whatsapp-business-api-colombia/>
+- <https://revistasumma.com/el-marketing-mas-rentable-de-2026-no-esta-en-tu-email/>
+- <https://agenciadigitallatam.com/marketing-digital/tendencias-marketing-digital-latam-actualidad/>
+- <https://getvoip.com/blog/state-of-cpaas/>
+- <https://www.navthemes.com/cpaas-news-biggest-trends-and-industry-updates-in-2026/>
+- <https://www.eluniversal.com.co/tecnologia/2025/11/21/la-nueva-funcion-de-whatsapp-que-veras-en-todos-los-chats-desde-hoy/>
+- <https://www.ambito.com/tecnologia/whatsapp-empieza-mostrar-anuncios-donde-apareceran-y-como-funcionaran-n6255869>
