@@ -248,3 +248,26 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.navthemes.com/cpaas-news-biggest-trends-and-industry-updates-in-2026/>
 - <https://www.eluniversal.com.co/tecnologia/2025/11/21/la-nueva-funcion-de-whatsapp-que-veras-en-todos-los-chats-desde-hoy/>
 - <https://www.ambito.com/tecnologia/whatsapp-empieza-mostrar-anuncios-donde-apareceran-y-como-funcionaran-n6255869>
+
+## Resumen de tendencias - 11 de septiembre de 2026
+
+- Cuenta regresiva final para el cobro de mensajes de servicio de WhatsApp Business Platform: arranca el 1 de octubre (1.000 mensajes gratis por número al mes, cobro desde el 1.001), pero empresas y proveedores deben registrar un método de pago válido antes del 30 de septiembre para no arriesgarse a cortes en la recepción de mensajes — la medida solo golpea a quienes operan sobre la API/Platform con CRM o automatización, no a la app gratuita que usan la mayoría de las pymes.
+- El mercado global de CPaaS creció 9,3% en 2025 hasta USD 14.880 millones y Gartner proyecta otro 13% de alza en 2026 (hasta USD 17.030 millones); en el Cuadrante Mágico 2026, Twilio e Infobip lideran (Infobip con ventaja en visión, Twilio en ejecución) y Sinch entra como líder — confirma que la consolidación de canales (voz + SMS + WhatsApp + email en una sola plataforma) sigue siendo la apuesta ganadora del sector.
+- El comercio conversacional en Latam ya mueve USD 18.200 millones (+35% interanual) y el 72% de esas transacciones pasa por WhatsApp, según Infobip — el canal ya representa cerca del 15% de las ventas de ecommerce en la región y dejó de ser solo "atención" para convertirse en punto de cierre de venta real.
+- Dato poco citado y muy accionable para contenido: los WhatsApp Flows (formularios e interacciones dentro del propio chat) registran 72% de tasa de finalización, frente a apenas 35% de los formularios web tradicionales — mover el registro o la cotización de un formulario externo a un Flow dentro de WhatsApp puede duplicar la conversión sin cambiar la oferta.
+- El 67% de las empresas que usan WhatsApp Business en Latam ya implementó o planea implementar IA en sus conversaciones durante 2026 (Gartner, reporte de tecnología de servicio al cliente) — la brecha entre "bot básico" y "agente que vende" se cierra rápido y quien no dé el salto queda rezagado frente a la competencia.
+- En fidelización B2B en Latam, tres cambios marcan 2026: 80% de los clientes espera interacciones personalizadas, 55% valora la gamificación apoyada en IA y 70% pondera el propósito o impacto social de la marca en su decisión de compra — la lealtad genérica por puntos pierde terreno frente a programas que activan el beneficio en tiempo real por canales directos como WhatsApp.
+
+### Fuentes
+
+- <https://leadsales.io/blog/whatsapp-business-seguira-gratis/>
+- <https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/>
+- <https://blog.riqra.com/posts/nuevas-tarifas-whatsapp-business-2026>
+- <https://destinopanama.com.pa/2026/09/whatsapp-business-cobrara-por-mensajes-de-servicio-desde-el-1-de-octubre/>
+- <https://chat2desk.mx/nuevo-cobro-whatsapp-business-api-meta-2026/>
+- <https://www.cxtoday.com/service-management-connectivity/gartner-magic-quadrant-cpaas-2026/>
+- <https://www.aurorainbox.com/2026/05/14/que-es-comercio-conversacional-whatsapp/>
+- <https://www.aurorainbox.com/en/2026/03/04/estadisticas-ecommerce-whatsapp-latam/>
+- <https://mazkara.studio/es/newsletter/estado-whatsapp-latinoamerica-2026/>
+- <https://blog.chattigo.com/whatsapp-business/tendencias-de-ia-conversacional-en-latinoam%C3%A9rica-para-2026-el-auge-del-agente-aut%C3%B3nomo-en-whatsapp>
+- <https://www.spoonity.com/es/tendencias-fidelizacion-digital-2026/>
