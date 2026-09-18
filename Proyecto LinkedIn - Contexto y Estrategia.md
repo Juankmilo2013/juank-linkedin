@@ -271,3 +271,24 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://mazkara.studio/es/newsletter/estado-whatsapp-latinoamerica-2026/>
 - <https://blog.chattigo.com/whatsapp-business/tendencias-de-ia-conversacional-en-latinoam%C3%A9rica-para-2026-el-auge-del-agente-aut%C3%B3nomo-en-whatsapp>
 - <https://www.spoonity.com/es/tendencias-fidelizacion-digital-2026/>
+
+## Resumen de tendencias - 18 de septiembre de 2026
+
+- Recta final antes del cobro de mensajes de servicio de WhatsApp Business Platform (arranca el 1 de octubre): quedan menos de dos semanas para registrar un método de pago válido y evitar cortes en la recepción de mensajes — los especialistas recomiendan simplificar los recorridos de atención y resolver consultas con menos mensajes (o con respuestas automáticas para FAQs) para reducir el costo antes del cambio.
+- Meta lanzó "WhatsApp Coexistence", que permite usar el mismo número en la app móvil y en la API al mismo tiempo, sincronizando en tiempo real (hasta 6 meses de historial) — un modelo híbrido donde el equipo comercial atiende desde el CRM vía API mientras la gerencia conserva control desde el celular, sin perder trazabilidad de la conversación.
+- Meta también habilitó llamadas de voz integradas y grabables directamente desde la API de WhatsApp, con acceso al historial completo del chat durante la llamada — abre la puerta a que equipos de ventas revisen grabaciones, detecten patrones de objeción y mejoren el guión comercial sin salir del mismo canal.
+- RCS sigue ganando terreno como alternativa/complemento a WhatsApp en la región: en México ya supera los 95 millones de usuarios y se consolida como estándar de mensajería móvil, con tasas de entrega superiores al 70% y de lectura cercanas al 90% — un canal a vigilar para diversificar la estrategia de mensajería más allá de un solo proveedor.
+- Caso concreto de venta B2B en Latam: una distribuidora reportó +40% de conversión en 90 días tras integrar WhatsApp Business a su proceso comercial, con el ticket promedio subiendo de 85.000 a 110.000 COP gracias a cross-selling dentro de la misma conversación — evidencia de que el canal no solo agiliza la atención, también incrementa el valor por cliente.
+- En CPaaS, la tendencia 2026 se consolida hacia low-code/no-code: se estima que 4 de cada 10 empresas adoptarán plataformas CPaaS de bajo código este año, permitiendo que equipos comerciales y de marketing (no solo IT) construyan y ajusten flujos de conversación en canales como SMS, WhatsApp, RCS y voz sin depender de desarrollo.
+
+### Fuentes
+
+- <https://www.ambito.com/tecnologia/whatsapp-deja-ser-gratis-las-empresas-partir-octubre-2026-las-claves-del-cambio-meta-n6306488>
+- <https://www.infobae.com/tecno/2026/09/11/whatsapp-business-pondra-un-limite-a-los-mensajes-y-aplicara-cargos-a-las-empresas-que-lo-excedan/>
+- <https://www.hubtype.com/es/blog/whatsapp-coexistence-guia-completa>
+- <https://leadsales.io/blog/top-actualizaciones-de-whatsapp/>
+- <https://www.unimento.com/whatsapp-business-funciones-nuevas-2026>
+- <https://mobiletime.la/noticias/16/10/2025/rcs-mexico-mensajeria-movil/>
+- <https://bitobee.com/blog/estrategia-marketing-b2b-distribuidoras-latam>
+- <https://www.ecosmob.com/blog/cpaas-trends-and-solutions/>
+- <https://flowroute.com/blog/cpaas-trends-shaping-business-communication/>
