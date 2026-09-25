@@ -292,3 +292,26 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://bitobee.com/blog/estrategia-marketing-b2b-distribuidoras-latam>
 - <https://www.ecosmob.com/blog/cpaas-trends-and-solutions/>
 - <https://flowroute.com/blog/cpaas-trends-shaping-business-communication/>
+
+## Resumen de tendencias - 25 de septiembre de 2026
+
+- Cuenta regresiva final: el 30 de septiembre vence el plazo para que empresas y proveedores que operan la WhatsApp Business Platform (API) registren un método de pago, justo antes de que el 1 de octubre arranque el cobro de mensajes de servicio que superen los 1.000 gratis por número al mes — la app gratuita que usa la mayoría de pymes no se ve afectada.
+- Meta lanzó el 15 de septiembre el "WhatsApp Business Tools MCP", un servidor que conecta agentes de IA (Claude, Cursor, ChatGPT) directamente con la plataforma de WhatsApp Business: permite crear cuentas, registrar números, administrar plantillas y configurar webhooks solo describiendo lo que se necesita — el onboarding técnico, históricamente el mayor dolor de cabeza, empieza a resolverse con un agente en vez de saltar entre consolas.
+- El reporte "Radiografía del comercio conversacional en Latinoamérica 2026" (Concepto Móvil) confirma la brecha real: 77% de las pymes percibe alto impacto de la mensajería móvil en servicio al cliente y 67% concentra sus campañas en WhatsApp, pero menos del 15% vende de forma digital integrada — la mensajería ya ganó la conversación con el cliente, falta que se traduzca en un proceso de venta real.
+- En conversión, WhatsApp sigue goleando a otros canales en Latam: 90-98% de tasa de apertura frente a ~20% de email, con conversiones 3-5x superiores; un lead atendido en menos de 1 minuto convierte 8 veces más que uno demorado, y los agentes de IA en WhatsApp Business ya elevan el ticket promedio 19,2% vía cross-sell dentro del chat.
+- El mercado CPaaS sigue sin consenso en tamaño exacto entre firmas analistas (entre USD 17.000 y 31.000 millones para 2026 según la fuente), pero coinciden en la tendencia de fondo: el software de orquestación con IA ya representa 63,5% del gasto frente a la conectividad pura, confirmando que el valor se mueve hacia capas de engagement inteligente.
+
+### Fuentes
+
+- <https://www.infobae.com/tecno/2026/09/11/whatsapp-business-pondra-un-limite-a-los-mensajes-y-aplicara-cargos-a-las-empresas-que-lo-excedan/>
+- <https://www.proceso.com.mx/ciencia-tecnologia/2026/9/22/whatsapp-cobrara-por-mensaje-desde-octubre-quienes-deberan-pagar-380407.html>
+- <https://360dialog.com/blog/whatsapp-service-message-charging-october-2026/>
+- <https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/>
+- <https://ecosistemastartup.com/meta-lleva-agentes-de-ia-a-whatsapp-business-con-un-mcp/>
+- <https://comunicae.com.mx/notas-de-prensa/solo-15-de-las-empresas-logran-ventas>
+- <https://infochannel.info/concepto-movil-te-leva-de-la-mano-al-comercio-conversacional/>
+- <https://www.intothecom.com/recursos/marketing-digital-b2b-latam-2026>
+- <https://chatsell.net/whatsapp-business-tendencias-ventas-latam-2026-2/>
+- <https://tecnochat.com/blog/ia/whatsapp-ia-en-2026-pymes-latam-venden-8x-mas-respondiendo-en-1-minuto>
+- <https://www.mordorintelligence.com/industry-reports/communication-platform-as-a-service-cpaas-market>
+- <https://www.businessresearchinsights.com/market-reports/cpaas-market-119746>
