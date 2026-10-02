@@ -315,3 +315,22 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://tecnochat.com/blog/ia/whatsapp-ia-en-2026-pymes-latam-venden-8x-mas-respondiendo-en-1-minuto>
 - <https://www.mordorintelligence.com/industry-reports/communication-platform-as-a-service-cpaas-market>
 - <https://www.businessresearchinsights.com/market-reports/cpaas-market-119746>
+
+## Resumen de tendencias - 02 de octubre de 2026
+
+- El cobro por mensajes de servicio de WhatsApp Business Platform ya es una realidad: entró en vigencia el 1 de octubre, con 1.000 mensajes gratis al mes por número y tarifa variable por país para el excedente (en Perú, por ejemplo, US$0,03 por mensaje) — el momento de auditar qué conversaciones realmente necesitan salir fuera de plantilla ya llegó, no es una proyección a futuro.
+- SMS no desaparece, se reinventa como respaldo: Latam fue la región con mayor crecimiento de volumen SMS en 2025 (+53% interanual), impulsado por OTP, alertas de cuenta y notificaciones transaccionales — un canal confiable para diversificar cuando WhatsApp se encarece o cuando la entrega por app falla.
+- El mercado CPaaS sigue consolidándose: según Gartner creció 9,3% en 2025 hasta USD 14.880 millones y se proyecta un alza de 13% en 2026 (USD 17.030 millones), con Twilio e Infobip como líderes del Magic Quadrant, Vonage de regreso al cuadrante líder y una ola de fusiones y adquisiciones buscando escala — para un comprador B2B, elegir proveedor hoy es apostarle a quién sobrevive esa consolidación.
+- Meta sigue empujando funciones de IA en WhatsApp Business orientadas a venta, no solo a atención: recomendaciones de producto personalizadas integradas con el administrador de anuncios, pensadas para que negocios de cualquier tamaño usen los mismos recursos creativos y presupuesto en campañas Click-to-WhatsApp — la conversación comercial empieza a diseñarse desde la pauta, no solo desde el chat.
+- El consumidor Latam ya no acepta mensajería unidireccional: la mensajería pasó de notificar a sostener conversaciones de dos vías, con expectativa de resolución rápida, personalización y continuidad entre canales — las marcas que logren orquestar SMS, WhatsApp y canales enriquecidos en un mismo hilo de conversación serán las que capturen lealtad real en 2026.
+
+### Fuentes
+
+- <https://www.peru-retail.com/?p=421761>
+- <https://www.iproup.com/innovacion/71207-fin-de-los-mensajes-gratis-en-whatsapp-quienes-tendran-que-pagar>
+- <https://mobileecosystemforum.com/2026/01/06/latin-america-messaging-in-2025-what-changed-and-what-it-means-for-2026/>
+- <https://www.cxtoday.com/service-management-connectivity/gartner-magic-quadrant-cpaas-2026/>
+- <https://analysysmason.com/research/content/articles/cpaas-market-consolidation-rdmv0>
+- <https://www.ambito.com/tecnologia/whatsapp-empresas-las-nuevas-funciones-ia-un-mejorar-el-marketing-y-hacer-negocios-n6163888>
+- <https://www.ejecentral.com.mx/nuestro-eje/whatsapp-lanza-funciones-con-inteligencia-artificial-para-facilitar-negocios-ventas-y-atencion-al-cliente>
+- <https://www.infobip.com/es/tendencias-de-mensajeria/canales>
