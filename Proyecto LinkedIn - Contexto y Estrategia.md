@@ -334,3 +334,24 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.ambito.com/tecnologia/whatsapp-empresas-las-nuevas-funciones-ia-un-mejorar-el-marketing-y-hacer-negocios-n6163888>
 - <https://www.ejecentral.com.mx/nuestro-eje/whatsapp-lanza-funciones-con-inteligencia-artificial-para-facilitar-negocios-ventas-y-atencion-al-cliente>
 - <https://www.infobip.com/es/tendencias-de-mensajeria/canales>
+
+## Resumen de tendencias - 09 de octubre de 2026
+
+- Meta cerró la puerta a la IA conversacional genérica dentro de WhatsApp Business API desde el 15 de enero de 2026: prohíbe a asistentes de propósito general (ChatGPT, Perplexity, Luzia, Poke) operar sobre la API, pero mantiene la excepción para bots propios de negocio (atención, pedidos, ventas) — refuerza que la vía válida para llevar IA a WhatsApp es construir el flujo con un partner CPaaS, no conectar un asistente genérico de terceros.
+- El canal SMS A2P en Latam sigue con enorme espacio para crecer: solo 3,1% de las marcas de la región lo usa activamente (MEF/Mobilesquared vía GMS), mientras Telefónica proyecta que los ingresos de A2P messaging en Latam alcancen cerca de USD 5.000 millones para 2030 — un canal subutilizado para OTP, alertas y notificaciones transaccionales que complementa a WhatsApp cuando este se encarece o no está disponible.
+- RCS avanza por acuerdo entre operadores: Google confirmó el despliegue de RCS junto con América Móvil, AT&T México, Oi y Telefónica, con cobertura proyectada de hasta 60% de los suscriptores móviles de la región (GSMA) — el canal deja de depender de un solo operador y se vuelve una alternativa real de mensajería enriquecida más allá de WhatsApp.
+- Datos de Aurora Inbox confirman que Latam lidera el comercio conversacional a nivel global: los consumidores de la región compran en promedio 3,2 veces al mes por WhatsApp (frente a 1,1 en Europa), con cerca de 4,7 millones de negocios vendiendo activamente por el canal y un ticket promedio de USD 43 — un ángulo claro para mostrar por qué Latam es el laboratorio natural del comercio por chat.
+- Con el cobro de mensajes de servicio ya vigente desde el 1 de octubre, Meta amplió desde el 28 de septiembre la ventana gratuita de conversaciones iniciadas por anuncios "Click-to-WhatsApp" de 72 horas a 7 días — un respiro para campañas de pauta que buscan cerrar la venta sin que el costo por mensaje de servicio se dispare mientras dura la conversación.
+- En pymes Latam, la combinación de canales ya se traduce en resultados: empresas que adoptan estrategias digitales combinadas (WhatsApp + SMS + email) reportan en promedio 20% más ventas y un 12% de crecimiento anual en presupuesto de marketing digital — la omnicanalidad deja de ser teoría y empieza a verse en el estado de resultados de pymes.
+
+### Fuentes
+
+- <https://www.enter.co/?p=577334>
+- <https://aunoa.ai/blog/meta-ai-sera-el-unico-asistente-permitido-en-whatsapp/>
+- <https://gms.net/?p=33867>
+- <https://telefonica.com/en/communication-room/blog/a2p-messaging-market-latin-america-problems-solutions>
+- <https://blog.google/products/rcs/upgrading-messaging-across-latin-america-america-movil-t-mexico-oi-and-telefonica>
+- <https://www.gsma.com/futurenetworks/digest/rcs_in_latin_america/>
+- <https://www.aurorainbox.com/?p=38250>
+- <https://support.wati.io/es/articles/16954666-cambios-en-los-precios-de-la-plataforma-whatsapp-business-api-mensajes-de-servicio-y-anuncios-de-clic-para-enviar-mensaje>
+- <https://ecosistemastartup.com/marketing-digital-en-pymes-latam-claves-2026-con-datos/>
