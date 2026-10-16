@@ -355,3 +355,26 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.aurorainbox.com/?p=38250>
 - <https://support.wati.io/es/articles/16954666-cambios-en-los-precios-de-la-plataforma-whatsapp-business-api-mensajes-de-servicio-y-anuncios-de-clic-para-enviar-mensaje>
 - <https://ecosistemastartup.com/marketing-digital-en-pymes-latam-claves-2026-con-datos/>
+
+## Resumen de tendencias - 16 de octubre de 2026
+
+- RCS avanza desigual en la región: México y Brasil ya tienen despliegue multioperador completo (Telcel, AT&T y Movistar interoperando vía Google Jibe), mientras Colombia va rezagada (Claro apenas en pruebas) y Chile apunta a un lanzamiento comercial completo a mediados de 2026 — hoy sigue siendo WhatsApp, no RCS, la apuesta segura para la mayoría de mercados Latam.
+- El "Meta Business Agent" (la IA nativa de Meta para WhatsApp, Messenger e Instagram) cobra desde el 1 de agosto de 2026 una tarifa plana global de USD 2 por millón de tokens; Meta estima que una conversación típica consume 20.000-25.000 tokens, es decir, entre USD 0,04 y 0,05 por interacción — un dato concreto para comparar costo de IA nativa de Meta vs. construir el bot con un partner CPaaS.
+- El comercio conversacional en Latam se proyecta en unos USD 18.200 millones para 2026, con WhatsApp canalizando cerca del 72% de ese volumen sobre una base de 530 millones de usuarios activos mensuales en la región — la escala que convierte a Latam en el laboratorio natural del comercio por chat a nivel global.
+- La madurez de venta por WhatsApp varía mucho por país: 78% de los negocios en Brasil ya vende por el canal, frente a 74% en Colombia, 71% en México y 69% en Argentina — pero Argentina es el mercado que más rápido crece (+51% interanual), señal de que la curva de adopción todavía tiene mucho terreno por recorrer en varios países.
+- Comparando canales, WhatsApp sigue ganando por lejos en apertura (95-98%) frente a SMS (82-85%) y email (20-25%), y un dato que vale citar en ventas: 66% de los consumidores que inician una conversación con una marca en WhatsApp termina comprando — el argumento más simple para liderar la estrategia con WhatsApp y dejar SMS/email como canales de respaldo, no de reemplazo.
+- El SMS A2P sigue depurándose como canal "de confianza": se proyecta que la proporción de tráfico doméstico legítimo (no spam) pase de 80,6% en 2024 a 86,5% en 2029, a medida que los operadores endurecen los filtros antifraude — una razón más para apostarle a remitentes verificados en OTP y alertas transaccionales.
+
+### Fuentes
+
+- <https://mobiletime.la/?p=803903>
+- <https://blog.google/products/rcs/upgrading-messaging-across-latin-america-america-movil-t-mexico-oi-and-telefonica>
+- <https://www.gsma.com/futurenetworks/digest/rcs_in_latin_america/>
+- <https://www.wati.io/es/blog/meta-whatsapp-ai-token-pricing/>
+- <https://www.descubre.vc/noticia/meta-inicia-cobro-por-tokens-para-su-business-agent-en-whatsapp-e-instagram-2026-07-17>
+- <https://www.enter.co/?p=584990>
+- <https://leadsales.io/blog/cambios-precios-whatsapp-business-platform/>
+- <https://www.aurorainbox.com/?p=38250>
+- <https://chatdaddy.tech/blog/whatsapp-marketing-2026>
+- <https://revistasumma.com/?p=242350>
+- <https://gms.net/blog/a2p-messaging-trends-for-2026>
