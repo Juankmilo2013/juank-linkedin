@@ -378,3 +378,25 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://chatdaddy.tech/blog/whatsapp-marketing-2026>
 - <https://revistasumma.com/?p=242350>
 - <https://gms.net/blog/a2p-messaging-trends-for-2026>
+
+## Resumen de tendencias - 23 de octubre de 2026
+
+- El tráfico conversacional en Latam sigue acelerando: Infobip reporta un crecimiento de 40% interanual en tráfico multicanal y 62% en interacciones durante 2025, con SMS como el canal de mayor crecimiento regional del mundo (+53%) — pese a WhatsApp, el SMS todavía representó 62% del tráfico en la plataforma, sobre todo en OTP/2FA y alertas transaccionales, un recordatorio de que el mix de canales sigue siendo la jugada ganadora, no un solo canal.
+- Meta cambió de raíz el modelo de cobro de la WhatsApp Business Platform desde el 1 de julio de 2025: pasó de tarifar por "conversación" de 24 horas a tarifar por mensaje individual — los mensajes iniciados por el usuario son gratis y los iniciados por la empresa se cobran con tarifas por volumen que bajan mientras más se envía por categoría y país, algo clave para re-explicar a clientes B2B cómo se comportan hoy los costos de campañas y notificaciones.
+- El Mundial 2026 se perfila como la gran prueba de estrés del comercio conversacional en la región: Infobip proyecta que las ventas vía WhatsApp podrían al menos triplicarse durante el torneo (tomando como referencia que la facturación en México se triplicó durante el Super Bowl frente a un día normal), mientras el e-commerce latam llegaría a USD 215.300 millones en 2026 con 84% de las compras hechas desde el celular — una ventana concreta para hablar con clientes de campañas estacionales por WhatsApp.
+- Un estudio de Kantar encargado por WhatsApp Business confirma la preferencia por mensajería sobre otros canales: 73,3% de los consumidores prefiere comunicarse con las marcas por mensajes, y 72,4% se declara más dispuesto a comprarle a una marca que ofrece esa opción — el dato más citable para justificar presupuesto hacia WhatsApp frente a canales tradicionales.
+- Meta sigue desplegando lo anunciado en su conferencia Conversations 2025: campañas de WhatsApp, Instagram y Facebook ahora se gestionan desde un Ads Manager unificado, con Advantage+ optimizando presupuesto automáticamente entre canales, y pruebas de IA empresarial que ya recomienda productos y cierra ventas dentro del chat, ampliadas a mercados como México — una señal de hacia dónde va la automatización de ventas conversacionales en 2026.
+- El mercado de CPaaS mantiene crecimiento de doble dígito pero con estimaciones dispares entre consultoras (entre USD 21.000 y 30.000 millones para 2026, con tasas de crecimiento anual de 14% a 28% según la fuente) — más que el número exacto, el patrón que vale resaltar es la consolidación hacia plataformas que integran IA, automatización y mensajería multicanal en una sola capa.
+
+### Fuentes
+
+- <https://www.infobip.com/es/tendencias-de-mensajeria/canales>
+- <https://mobileecosystemforum.com/2026/01/06/latin-america-messaging-in-2025-what-changed-and-what-it-means-for-2026/>
+- <https://developers.facebook.com/docs/whatsapp/pricing>
+- <https://help.zoho.com/portal/en/community/topic/whatsapp-message-pricing-changes-effective-july-1-2025>
+- <https://mercado.com.ar/ruta-digital/mundial-2026-whatsapp-se-proyecta-como-canal-de-ventas-para-el-comercio-latinoamericano>
+- <https://www.iproup.com/coffee-break/69413-por-que-el-mundial-2026-convierte-a-whatsapp-en-el-canal-de-ventas-mas-fuerte>
+- <https://blog.chattigo.com/comunicaci%C3%B3n-omnicanal/novedades-de-whatsapp-business-2025-campa%C3%B1as-centralizadas-inteligencia-artificial-y-llamadas>
+- <https://propmark.com.br/digital/meta-anuncia-novas-ferramentas-para-negocios-no-whatsapp/>
+- <https://decisiontele.com/news/what-businesses-should-do-now-get-ready-cpaas-2026.html>
+- <https://newsletter.cequens.com/p/cequens-pulse-the-newsletter-51d324436d325814>
