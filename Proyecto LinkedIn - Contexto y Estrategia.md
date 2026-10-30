@@ -400,3 +400,25 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://propmark.com.br/digital/meta-anuncia-novas-ferramentas-para-negocios-no-whatsapp/>
 - <https://decisiontele.com/news/what-businesses-should-do-now-get-ready-cpaas-2026.html>
 - <https://newsletter.cequens.com/p/cequens-pulse-the-newsletter-51d324436d325814>
+
+## Resumen de tendencias - 30 de octubre de 2026
+
+- Twilio reportó resultados del tercer trimestre de 2026 (29 de octubre): ingresos de USD 1.560 millones (+20% interanual) y utilidad operativa GAAP de USD 148,6 millones (+263% interanual) — el CPaaS más grande de EE.UU. sigue creciendo con fuerza apalancado en su narrativa de IA, señal de que el sector mantiene tracción pese a la presión de precios.
+- En contraste, Sinch cerró un trimestre "mixto": ventas de SEK 6.659 millones, por debajo de la estimación de analistas (SEK 6.873 millones), con sus acciones cayendo cerca de 9% tras el anuncio — recordatorio de que el crecimiento de doble dígito del CPaaS no es uniforme entre los grandes players y la ejecución comercial sigue marcando la diferencia.
+- Meta extendió su "Business AI" (agentes de IA nativos para vender y atender por WhatsApp sin sumar personal) a Argentina y otros 16 países de Latam, apuntando directamente a pymes — un ángulo fuerte para hablar de cómo la IA conversacional ya no es exclusiva de las marcas grandes en la región.
+- Con Black Friday y Cyber Monday a menos de un mes, las guías de la industria (Sinch, Trengo, YCloud) coinciden en tres tácticas para WhatsApp: segmentar listas VIP para ofertas anticipadas, usar mensajería en tiempo real para generar urgencia, y tener catálogo/checkout listos dentro del chat antes de que arranque la temporada alta — contenido accionable para publicar ahora, antes del pico de demanda.
+- Un análisis de Vocero.com.mx estima que 77% del valor del canal conversacional se genera después de la compra, en atención y fidelización, no durante la venta misma — dato útil para argumentarle a clientes que WhatsApp no es solo canal de adquisición, sino la base de la retención.
+- Según Cronista, 55% de los consumidores en México ya recibió notificaciones fraudulentas por mensajería, lo que refuerza el valor de operar con cuentas verificadas (WhatsApp Business API, remitentes SMS registrados) como diferencial de confianza frente a canales no verificados.
+
+### Fuentes
+
+- <https://www.sec.gov/Archives/edgar/data/0001447669/000144766926000106/twloq326ex991.htm>
+- <https://benzinga.com/z/41639676>
+- <https://www.stockopedia.com/share-prices/twilio-NYQ:TWLO/news/sinch-falls-after-apos-mixed-apos-q3-results-019e69f3-25b2-72de-8f91-6908e9239986/>
+- <https://www.cronista.com/infotechnology/it-business/asi-funciona-la-novedad-de-whatsapp-que-usan-las-pymes-para-vender-mas-sin-sumar-personal/>
+- <https://sinch.com/es/blog/aumenta-ventas-en-buen-fin-y-black-friday-con-whatsapp/>
+- <https://trengo.com/es/blog/black-friday-whatsapp>
+- <https://www.ycloud.com/es/blog/whatsapp-marketing-strategy-for-black-friday-and-cyber-monday>
+- <https://www.vocero.com.mx/?p=414185>
+- <https://www.cronista.com/mexico/finanzas-economia/el-55-de-los-consumidores-ha-recibido-notificaciones-fraudulentas/>
+- <https://www.puromarketing.com/16/217466/como-whatsapp-business-convirtio-carrito-compra-latam>
