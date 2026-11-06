@@ -422,3 +422,24 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.vocero.com.mx/?p=414185>
 - <https://www.cronista.com/mexico/finanzas-economia/el-55-de-los-consumidores-ha-recibido-notificaciones-fraudulentas/>
 - <https://www.puromarketing.com/16/217466/como-whatsapp-business-convirtio-carrito-compra-latam>
+
+## Resumen de tendencias - 06 de noviembre de 2026
+
+- El Gartner Magic Quadrant 2026 para CPaaS (publicado el 18 de mayo) ubica a Twilio, Infobip y Sinch como Líderes —y algunas coberturas suman a Vonage y Proximus Global—, con "agentic AI" y seguridad como los ejes que diferencian a los proveedores: el mercado se sigue consolidando alrededor de plataformas que integran IA agéntica, no solo envío de mensajes.
+- WhatsApp Business sumó funciones de pago (reportadas a fines de octubre): mensajes de marketing personalizados y programados según el comportamiento del cliente, una página web de negocio dentro de WhatsApp y vinculación de cuentas —contenido útil para explicarle a clientes B2B que la plataforma ya no es solo chat, sino un canal de marketing automatizado con costo adicional.
+- Según estimaciones de la industria (a tomar con cautela, de un proveedor de IA conversacional) el comercio vía WhatsApp en Latam movería cerca de USD 18.200 millones en 2026 (+35% interanual), con 4,7 millones de empresas vendiendo activamente por el canal (+42% vs. 2025) y Brasil, Colombia y México liderando la adopción regional.
+- El SMS sigue siendo el canal de respaldo para lo crítico en Latam: pese al dominio de WhatsApp en la conversación comercial, reportes de la industria insisten en que el SMS mantiene su lugar para OTP/2FA, alertas de cuenta y notificaciones transaccionales, justamente donde la entrega garantizada pesa más que la riqueza del mensaje.
+- El email B2B no desaparece, pero cambia de rol: estudios de marketing global siguen citando un ROI promedio de USD 42 por cada USD 1 invertido, lo que sugiere que la conversación debería ser "WhatsApp para la venta y la atención en tiempo real, email para nutrición y reporting", no una competencia entre canales.
+- El comercio electrónico B2B en Latam proyecta un crecimiento sostenido (CAGR estimado de 8,7% entre 2026 y 2034), impulsado por la digitalización de la relación comercial —un argumento de fondo para posicionar a Masiv como el puente entre esa digitalización B2B y canales conversacionales como WhatsApp, SMS y email.
+
+### Fuentes
+
+- <https://www.cxtoday.com/service-management-connectivity/gartner-magic-quadrant-cpaas-2026/>
+- <https://sinch.com/resources/2026-gartner-magic-quadrant/>
+- <https://cxm.world/customer-experience/gartners-2026-cpaas-magic-quadrant-five-leaders-agentic-ai-and-a-security-reckoning/>
+- <https://sleekflow.io/es/blog/funciones-de-whatsapp-business-ultimas-novedades>
+- <https://www.ambito.com/tecnologia/whatsapp-empresas-las-nuevas-funciones-ia-un-mejorar-el-marketing-y-hacer-negocios-n6163888>
+- <https://www.aurorainbox.com/2026/03/04/estadisticas-ecommerce-whatsapp-latam/>
+- <https://www.aurorainbox.com/2026/03/01/estadisticas-whatsapp-business-2025/>
+- <https://mobileecosystemforum.com/2026/01/06/latin-america-messaging-in-2025-what-changed-and-what-it-means-for-2026/>
+- <https://straitsresearch.com/es/report/b2b-ecommerce-market/latam>
