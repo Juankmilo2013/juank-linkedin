@@ -443,3 +443,23 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.aurorainbox.com/2026/03/01/estadisticas-whatsapp-business-2025/>
 - <https://mobileecosystemforum.com/2026/01/06/latin-america-messaging-in-2025-what-changed-and-what-it-means-for-2026/>
 - <https://straitsresearch.com/es/report/b2b-ecommerce-market/latam>
+
+## Resumen de tendencias - 13 de noviembre de 2026
+
+- El mercado CPaaS global sigue escalando: Tata Communications lo describe en plena hiperescala sobre los USD 34.000 millones, y CEQUENS proyecta que llegue a USD 41.000 millones en el corto plazo — en paralelo, Gartner estima que para fines de 2026 el 40% de las apps empresariales incluirán agentes de IA especializados por tarea, frente a menos del 5% en 2025: la IA conversacional deja de ser piloto y se vuelve estándar de producto.
+- Mordor Intelligence reporta un crecimiento de 110% en el uso de WhatsApp Business API entre los canales OTT del ecosistema CPaaS, y Mobile Squared proyecta que, si esa trayectoria se mantiene, WhatsApp se convertirá en el canal número uno para los proveedores de CPaaS — confirma que apostarle a WhatsApp como eje de la estrategia conversacional no es una apuesta aislada, es la dirección del mercado.
+- Nueva función de personalización en mensajes de marketing de WhatsApp Business (reportada en octubre 2026): las plantillas ya permiten insertar datos del cliente como nombre o fecha de cumpleaños directamente en el mensaje — un ajuste simple con alto impacto potencial en apertura y respuesta para campañas de fidelización segmentadas.
+- El "Meta Business Agent" sigue evolucionando: empresas pueden alternar entre atención automatizada por IA y transferencia a un agente humano dentro de la misma conversación cuando el caso lo requiere — el diseño ya no es "bot o humano", es un flujo híbrido que decide en tiempo real según la complejidad del mensaje.
+- En Latam, el 92% de los usuarios de internet ya usa WhatsApp según datos de Statista citados por Blip en su panorama de retail — la cobertura del canal es prácticamente total, lo que vuelve la pregunta de fondo no "si" una marca debe estar en WhatsApp, sino "qué tan bien" lo está usando para vender y fidelizar.
+- El SMS sigue teniendo un rol claro en B2B: permite gestionar fácilmente varias cuentas o líneas comerciales a la vez, lo que lo hace valioso para equipos de ventas que atienden distintos clientes o territorios desde un mismo flujo — un recordatorio de que la estrategia ganadora combina canales según el caso de uso, no reemplaza uno por otro.
+
+### Fuentes
+
+- <https://www.tatacommunications.com/knowledge-base/cpaas/cpaas-trends>
+- <https://newsletter.cequens.com/p/cequens-pulse-the-newsletter-51d324436d325814>
+- <https://www.mordorintelligence.com/industry-reports/communication-platform-as-a-service-cpaas-market/market-size>
+- <https://www.mobilesquared.co.uk/?p=15261>
+- <https://whatsappbusiness.com/es-la/blog/new-ways-for-businesses-to-do-more-with-messaging/>
+- <https://www.enter.co/?p=584990>
+- <https://www.blip.ai/blog/wp-content/uploads/2026/05/blip-ebook-pt-br-panorama-ejecutivo-retail-2026.pdf>
+- <https://www.cm.com/es-es/blog/usos-del-marketing-sms-marketing-b2b/>
