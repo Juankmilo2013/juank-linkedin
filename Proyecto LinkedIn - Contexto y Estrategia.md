@@ -463,3 +463,22 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.enter.co/?p=584990>
 - <https://www.blip.ai/blog/wp-content/uploads/2026/05/blip-ebook-pt-br-panorama-ejecutivo-retail-2026.pdf>
 - <https://www.cm.com/es-es/blog/usos-del-marketing-sms-marketing-b2b/>
+
+## Resumen de tendencias - 20 de noviembre de 2026
+
+- Meta llevó su "Meta Business Agent" a escala global dentro de WhatsApp (tras casi dos años de pilotos en India y México) y lo integró con Tiendanube, la primera plataforma de e-commerce de la región con esta tecnología — el agente ya recomienda productos, califica prospectos, agenda citas y cierra ventas dentro del mismo chat.
+- Según cifras presentadas por Meta en el WhatsApp Business Summit 2026 (con casos como Ibero y Laureate), casi 80% de los mexicanos intercambia mensajes con negocios al menos una vez por semana — confirma que la mensajería ya es el canal de contacto por defecto, no una alternativa secundaria.
+- Datos citados por Revista Summa indican que 66% de los consumidores que inician una conversación con una marca en WhatsApp termina comprando — un argumento directo para posicionar el canal como motor de conversión, no solo de soporte.
+- Mobile Squared ubica a SMS y WhatsApp como los canales más usados, efectivos y confiables en Latam durante 2025 (69,12% y 56,99% respectivamente) y proyecta que WhatsApp supere a SMS en 2026 — la tendencia no es que uno reemplace al otro, sino que ambos siguen liderando la confianza del usuario frente a otros canales digitales.
+- Infobip reporta que bancos y proveedores de pago deberán migrar a métodos de autenticación alternativos al SMS (2FA) antes de abril de 2026 en varios mercados, siguiendo la caída ya vista en India — una ventana concreta para ofrecerle a clientes OTP por WhatsApp o voz como complemento del SMS, no como reemplazo total.
+- En el sector financiero, Infobip señala que 76% de los usuarios cambiaría de banco por mejores servicios digitales — recordatorio de que la fidelización ya no se gana solo con producto, sino con la calidad de la experiencia conversacional.
+
+### Fuentes
+
+- <https://www.eluniversal.com.mx/techbit/agentes-de-ia-llegan-a-whatsapp-para-ayudar-a-negocios/>
+- <https://www.xataka.com.mx/comercio-electronico/whatsapp-principal-medio-para-vender-mexico-meta-tiendanube-creen-que-ahora-ia-puede-hacer-trabajo>
+- <https://ecosistemastartup.com/?p=102673>
+- <https://revistasumma.com/?p=242350>
+- <https://www.mobilesquared.co.uk/?p=15261>
+- <https://www.infobip.com/es/tendencias-de-mensajeria/analisis-regional>
+- <https://www.infobip.com/es/c/banca-conversacional-latinoamericana>
