@@ -482,3 +482,22 @@ Hablar como alguien que ya vio qué funciona en 13 cuentas reales — no como ve
 - <https://www.mobilesquared.co.uk/?p=15261>
 - <https://www.infobip.com/es/tendencias-de-mensajeria/analisis-regional>
 - <https://www.infobip.com/es/c/banca-conversacional-latinoamericana>
+
+## Resumen de tendencias - 27 de noviembre de 2026
+
+- Infobip's Messaging Trends Report 2026 muestra que el tráfico multicanal en Latam creció 40% interanual y los volúmenes de WhatsApp en la región subieron 18% interanual — confirma que la mensajería conversacional sigue acelerando, no es una moda pasajera.
+- A nivel global, WhatsApp concentró el 91% de todas las interacciones de IA conversacional en su plataforma, un salto de 25% interanual según el mismo reporte de Infobip — la IA ya no es un piloto, es el modo por defecto para atender y vender por el canal.
+- RCS crece fuerte pero desde una base pequeña: Latam multiplicó por 7 su uso de RCS en el último año (frente a 70x en Norteamérica, según Infobip) — un canal emergente a vigilar, aunque WhatsApp y SMS siguen siendo el terreno seguro para invertir hoy.
+- El mercado global de CPaaS ya ronda los US$34.000 millones (Tata Communications) y proyecciones de Trendx Insights lo ubican en US$176.700 millones para 2034 (28,5% CAGR) — las empresas ya no eligen "un canal", combinan WhatsApp, SMS, voz, email y RCS en una sola estrategia.
+- La adopción de IA en ventas conversacionales varía mucho entre países de la región: Brasil lidera con 41% de empresas usándola, seguido de México (31%), Chile (30%), Perú (28%), Colombia (21%) y Argentina (18%) — útil para calibrar el mensaje según el mercado del cliente.
+- Un estudio de Forrester Consulting con 100 empresas latinoamericanas encontró que la atención al cliente con IA se resuelve 30% más rápido — un dato concreto de productividad para justificar ante clientes B2B la inversión en automatización conversacional.
+
+### Fuentes
+
+- <https://www.infobip.com/es/tendencias-de-mensajeria/analisis-regional>
+- <https://www.infobip.com/news/infobips-20-year-analysis-of-3.8-trillion-messages>
+- <https://www.elperuano.pe/noticia/296474-whatsapp-lidera-la-revolucion-conversacional-en-peru-y-america-latina>
+- <https://www.tatacommunications.com/knowledge-base/cpaas/cpaas-trends>
+- <https://trendxinsights.com/syndicated-market-research-reports/cpaas-market/>
+- <https://www.valoraanalitik.com/?p=458512>
+- <https://forbes.co/negocios/b2chat-ia-conversacional-pyme-latinoamerica>
